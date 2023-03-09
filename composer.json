@@ -2,7 +2,7 @@
     "name": "theiconnz/base",
     "description": "Magento 2 base module for the icon",
     "require": {
-        "php": "~7.3.0||~7.4.0"
+        "php": ">=7.0.0"
     },
     "type": "magento2-module",
     "version": "0.0.3",
