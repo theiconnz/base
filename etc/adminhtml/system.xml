@@ -8,7 +8,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Config/etc/system_file.xsd">
     <system>
         <tab id="theiconnztab" translate="label" sortOrder="300">
-            <label>The Icon</label>
+            <label>FLOW200</label>
         </tab>
     </system>
 </config>

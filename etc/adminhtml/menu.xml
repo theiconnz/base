@@ -2,7 +2,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
     <menu>
-        <add id="Theiconnz_Base::menu" title="Theiconnz" translate="title"
+        <add id="Theiconnz_Base::menu" title="FLOW200" translate="title"
              module="Theiconnz_Base" sortOrder="30"
              resource="Theiconnz_Base::menu"/>
     </menu>
